@@ -1,9 +1,10 @@
 Hi, I’m Mack 👋
 
-💻 Learning AWS cloud and networking<br/>
-⚙️ Building automation and AI business tools<br/>
-📊 Interested in cloud architecture and real-world systems<br/>
-🚀 Working on AWS labs and hands-on projects<br/>
+☁️ AWS Cloud Engineer | 48+ hands-on projects<br/>
+🏗️ VPC • Kubernetes • Terraform • CI/CD • Aurora • DynamoDB<br/>
+🤖 Building AI automation tools<br/>
+🚀 Networking → DevOps → AI Integration<br/>
+📍 Buffalo, NY<br/>
 https://linkedin.com/in/saqibhos
 
 
