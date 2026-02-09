@@ -4,7 +4,7 @@ Hi, I’m Mack 👋
 🏗️ VPC • Kubernetes • Terraform • CI/CD • Aurora • DynamoDB<br/>
 🤖 Building AI automation tools<br/>
 🚀 Networking → DevOps → AI Integration<br/>
-📍 Buffalo, NY<br/>
+📍 New York<br/>
 https://linkedin.com/in/saqibhos
 
 
