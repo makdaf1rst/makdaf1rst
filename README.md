@@ -5,7 +5,9 @@ Hi, I’m Mack 👋
 🤖 Building AI automation tools<br/>
 🚀 Networking → DevOps → AI Integration<br/>
 📍 New York<br/>
-https://linkedin.com/in/saqibhos
+https://linkedin.com/in/saqibhos <br/>
+https://www.youtube.com/channel/UCqRxOs6zBYi9_BGe4YDvYLw <br/>
+https://www.instagram.com/mackdaf1rst/
 
 
 ## 🌐 Socials:
