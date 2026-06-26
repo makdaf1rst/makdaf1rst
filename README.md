@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Mack<br>🤖 Founder of Fulcrum AI - I build bespoke AI executive assistants for founders and operators.<br>🧠 Every assistant is built around how you actually work: your workflows, your voice, your decision logic.<br>📈 The more you use it, the smarter it gets.<br>📍 New York<br>
 
 
